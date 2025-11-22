@@ -1,0 +1,11 @@
+Title: Understanding Your Hiver Billing and Invoices
+Summary: Learn where to find invoices and manage billing details.
+
+Steps:
+1. Go to Billing in your Hiver dashboard.
+2. View invoice history.
+3. Update payment method.
+4. Download invoices as PDF.
+
+Notes:
+• For incorrect charges, contact support with invoice ID.

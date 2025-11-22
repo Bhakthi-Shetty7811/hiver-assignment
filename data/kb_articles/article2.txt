@@ -1,0 +1,14 @@
+Title: How to Create Workflows for Team Processes
+Summary: Workflows help automate repetitive actions using triggers and conditions.
+
+Steps:
+1. Go to Automations → Workflows.
+2. Click New Workflow.
+3. Select a trigger (Email Assigned, Status Changed, Tag Added).
+4. Add conditions to filter when the workflow runs.
+5. Add actions such as Assign, Add Tag, Notify User.
+6.Save and enable it.
+
+Common Issues:
+• Make sure workflows are not conflicting with Rules.
+• You can reorder workflows to change priority.

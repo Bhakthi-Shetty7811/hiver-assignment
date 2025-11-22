@@ -1,0 +1,13 @@
+Title: Configuring SLAs for Your Shared Inboxes
+Summary: SLAs help set response and resolution expectations for customer queries.
+
+Steps:
+1. Open Admin Panel → SLAs.
+2. Click Create SLA Policy.
+3. Define first-response and resolution time for each customer tier.
+4. Choose which inbox the SLA applies to.
+5. Save the SLA.
+
+Notes:
+• SLAs apply only to new conversations.
+• You can override SLA times for specific tags.

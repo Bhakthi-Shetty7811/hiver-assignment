@@ -1,0 +1,14 @@
+Title: How to Set Up Email Forwarding Rules in Hiver
+Summary: Learn how to automatically forward customer emails to specific teams.
+
+Steps:
+1. Go to Hiver Admin Panel → Automations → Rules.
+2. Click Create Rule.
+3. Choose the condition (Subject, Sender, Keywords).
+4. Select Forward To as the action.
+5. Add team members or shared inboxes.
+6. Save the rule.
+
+Notes:
+• Forwarding works only when automation is enabled for the inbox.
+• Rules run in the order listed.

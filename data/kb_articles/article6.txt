@@ -1,0 +1,7 @@
+Title: How to Fix Duplicate Email Conversations
+Summary: Duplicate threads usually occur when auto-assign or rules overlap.
+
+Fix:
+1. Check if multiple rules assign the same email.
+2. Disable older duplicate workflows.
+3. Use the Merge option to combine existing duplicates.

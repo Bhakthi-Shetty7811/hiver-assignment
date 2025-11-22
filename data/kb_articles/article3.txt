@@ -1,0 +1,13 @@
+Title: How to Merge Email Conversations
+Summary: Combine duplicate or related conversations into a single thread.
+
+Steps:
+1. Open any conversation in Hiver.
+2. Click the More Actions menu.
+3. Select Merge Conversation.
+4. Choose the other conversation to merge.
+5. Confirm.
+
+Important:
+• Merging is permanent.
+• Only open conversations can be merged.

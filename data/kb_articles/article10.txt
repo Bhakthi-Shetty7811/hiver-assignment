@@ -1,0 +1,13 @@
+Title: Using Hiver Analytics Dashboard
+Summary: View team performance metrics like response time, workload, productivity.
+
+Features:
+• CSAT scores
+• SLA performance
+• Volume trends
+• Agent-wise metrics
+
+Steps:
+1. Go to Analytics → Dashboard.
+2. Select a time range.
+3. Use filters for team, inbox, or tag.

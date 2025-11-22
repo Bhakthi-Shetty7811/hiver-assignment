@@ -1,0 +1,13 @@
+Title: How to Send Bulk Emails Using Mail Merge
+Summary: Mail Merge allows you to send personalized emails at scale.
+
+Steps:
+1. Go to Mail Merge.
+2. Upload a CSV file with customer data.
+3. Pick an email template.
+4. Customize fields like {{name}} or {{company}}.
+5. Schedule or send immediately.
+
+Notes:
+• Avoid special characters in CSV headers.
+• Open-rate tracking is available.

@@ -1,0 +1,11 @@
+Title: Fixing Slow Loading or Performance Issues
+Summary: Performance issues are usually related to browser or network problems.
+
+Steps:
+1. Clear browser cache.
+2. Disable extensions like ad-blockers.
+3. Try incognito mode.
+4. Check network connectivity.
+
+Notes:
+• Large analytics dashboards may take extra time to load.

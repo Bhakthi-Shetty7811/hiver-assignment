@@ -1,0 +1,12 @@
+Title: Managing Access and Permissions
+Summary: Control who can view or manage shared inboxes.
+
+Steps:
+1. Go to Admin Panel → Users.
+2. Select a user.
+3. Change roles (Member, Manager, Admin).
+4. Modify access to shared inboxes.
+
+Important:
+• Only Admins can manage permissions.
+• Permission updates take effect immediately.
